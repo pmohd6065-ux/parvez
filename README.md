@@ -66,8 +66,6 @@ Building automated, scalable, and cloud-native systems 🚀
 ✅ Monitoring via CloudWatch & Prometheus  
 ✅ Managed Prod & Non-Prod environments  
 
-🔗 **Project Repository:** _Add link here_
-
 ---
 
 ## 🔁 CI/CD Flow (Visual)  
