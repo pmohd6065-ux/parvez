@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Parvez</h1>
+![WelcomeWelcomeBackGIF](https://github.com/user-attachments/assets/62f2a945-45c5-4f47-b986-aee2e2c5fbb3)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Ansible;Cloud+%26+Automation+Enthusiast" alt="Typing Animation" />
