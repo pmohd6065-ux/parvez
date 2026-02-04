@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌟 **ENTRY-LEVEL DEVOPS & CLOUD ENGINEER** 🌟  
+🌟 **DEVOPS & CLOUD ENGINEER** 🌟  
 Building automated, scalable, and cloud-native systems 🚀  
 
 </div>
