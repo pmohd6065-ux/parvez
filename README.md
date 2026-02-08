@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hey! Nice to see you. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+Gayas's+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners!;Let's+Simplify+Tech+Together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+PARVEZ's+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners!;Let's+Simplify+Tech+Together+🚀" alt="Typing SVG" />
 </p>
 
 <p> </br> <b>Mohd Parvez</b> <b>DevOps Engineer</b> <img src="https://www.pinclipart.com/picdir/big/47-476312_india-transparent-clipart-indian-flag-logo-png.png" width="30"/> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayas5&label=Profile%20views&color=0e75b6&style=flat" alt="gayas5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohd Parvez&label=Profile%20views&color=0e75b6&style=flat" alt="Parvez" /> </p>
 <h3>Things I can familiar with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
 
 <p>
@@ -95,7 +95,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/g-md-681b9824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_gayas_546/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohdparvez809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
 </p>
 
 ## ✨ Quote I Live By
