@@ -1,44 +1,48 @@
-# ⚡ MOHD PARVEZ | DEVOPS ENGINEER
+# ⚡ MOHD PARVEZ | CLOUD & DEVOPS ENGINEER
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cloud+Architect+%7C+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Automation+First+Mindset;Building+Resilient+Production+Systems+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Multi-Cloud+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Kubernetes+Architect;Terraform+Automation+Expert;DevSecOps+Practitioner+🛡️" />
 </p>
 
 ---
 
-## 🧠 WHO I AM
+## 🧠 ENGINEERING PROFILE
 
-I design and automate **production-grade cloud infrastructure**.
+I specialize in designing, automating, and operating **secure, scalable cloud platforms**.
 
-I don’t just deploy systems.
-I engineer **secure, scalable, observable platforms**.
-
-🔹 Multi-Cloud DevOps Engineer
-🔹 Kubernetes & Infrastructure Specialist
-🔹 CI/CD Automation Architect
+🔹 Production-grade Kubernetes Architect
+🔹 CI/CD & Automation Specialist
+🔹 Infrastructure as Code Advocate
+🔹 DevSecOps Practitioner
 🔹 Monitoring & Reliability Focused
 
-> *Automate everything. Scale intelligently. Operate reliably.*
+> *Build secure. Automate everything. Scale intelligently.*
 
 ---
 
-# 🚀 CLOUD STACK
+# ☁ CLOUD EXPERTISE
 
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge\&logo=microsoftazure\&logoColor=0078D4)
-![GoogleCloud](https://img.shields.io/badge/GCP-111111?style=for-the-badge\&logo=googlecloud\&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge\&logo=microsoftazure\&logoColor=0078D4)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge\&logo=googlecloud\&logoColor=4285F4)
 
-Multi-region • Highly Available • Cost Optimized • Secure
+✔ Multi-region deployments
+✔ Secure VPC Architecture
+✔ Auto-scaling & Load Balancing
+✔ Cost Optimization Strategies
 
 ---
 
-# 🐳 CONTAINER & ORCHESTRATION
+# 🐳 CONTAINER PLATFORM
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge\&logo=kubernetes\&logoColor=326CE5)
 ![Helm](https://img.shields.io/badge/Helm-0d1117?style=for-the-badge\&logo=helm\&logoColor=0F1689)
 
-Cluster design • Scaling policies • Helm packaging • Production deployments
+✔ HA Clusters
+✔ Ingress & Service Mesh
+✔ Rolling / Blue-Green Deployments
+✔ Resource Optimization
 
 ---
 
@@ -46,48 +50,59 @@ Cluster design • Scaling policies • Helm packaging • Production deployment
 
 ![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge\&logo=terraform\&logoColor=623CE4)
 ![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge\&logo=ansible\&logoColor=EE0000)
-![Chef](https://img.shields.io/badge/Chef-0d1117?style=for-the-badge\&logo=chef\&logoColor=8B0000)
 
-Immutable infrastructure • Modular design • Environment automation
+✔ Modular IaC
+✔ Environment Automation
+✔ Policy as Code
+✔ Immutable Infrastructure
 
 ---
 
-# ⚙ CI/CD AUTOMATION
+# ⚙ CI/CD & AUTOMATION
 
 ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge\&logo=github-actions\&logoColor=2088FF)
 ![GitLabCI](https://img.shields.io/badge/GitLab_CI-0d1117?style=for-the-badge\&logo=gitlab\&logoColor=FC6D26)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge\&logo=jenkins\&logoColor=D24939)
 
-Build → Scan → Test → Secure → Deploy → Monitor
+Build → Test → Scan → Secure → Deploy → Monitor
 
 ---
 
-# 📊 OBSERVABILITY
+# 🛡 DEVSECOPS SECURITY MATRIX
+
+| Layer    | Security Controls Implemented    |
+| -------- | -------------------------------- |
+| Code     | SonarQube Scanning, SAST         |
+| Image    | Docker Image Scanning            |
+| IaC      | Terraform Security Scans         |
+| Pipeline | Branch Protection, PR Reviews    |
+| Runtime  | RBAC, Network Policies           |
+| Cloud    | IAM Hardening, Secure Networking |
+
+---
+
+# 📊 OBSERVABILITY STACK
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge\&logo=prometheus\&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge\&logo=grafana\&logoColor=F46800)
 
-Metrics • Alerts • Dashboards • Reliability Engineering
+✔ Metrics & Alerting
+✔ Proactive Monitoring
+✔ Performance Tuning
 
 ---
 
-# 💻 LANGUAGES
+# 🏅 CERTIFICATIONS
 
-Python • Bash • Go • YAML
+(Replace or add your real certifications)
 
----
-
-# 🏆 ENGINEERING IMPACT
-
-✔ Reduced deployment cycles by 70% via automated pipelines
-✔ Built production Kubernetes clusters (HA & monitored)
-✔ Designed reusable Terraform modules across environments
-✔ Implemented full-stack monitoring for proactive issue detection
-✔ Optimized cloud cost using right-sizing & automation
+* AWS Certified Solutions Architect (In Progress)
+* Azure Administrator Associate
+* Kubernetes CKA (Planned)
 
 ---
 
-# 📈 GITHUB ANALYTICS
+# 📈 GITHUB METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
@@ -96,16 +111,44 @@ Python • Bash • Go • YAML
 
 ---
 
-# 🎯 CURRENT FOCUS
+# 🏗 FEATURED ARCHITECTURE
 
-* Advanced Kubernetes Architectures
-* DevSecOps Pipeline Hardening
-* High-Performance Cloud Infrastructure
-* Automation at Scale
+```text
+                 +-------------+
+                 |  GitHub     |
+                 |  Actions    |
+                 +------+------+
+                        |
+                        v
+                +-------+-------+
+                | Docker Build  |
+                +-------+-------+
+                        |
+                        v
+                +-------+-------+
+                | Kubernetes    |
+                | Cluster (HA)  |
+                +-------+-------+
+                        |
+        +---------------+---------------+
+        |                               |
+   +----v----+                     +----v----+
+   |Prometheus|                    | Grafana |
+   +----------+                    +---------+
+```
 
 ---
 
-# 🤝 LET’S BUILD SOMETHING POWERFUL
+# 🚀 CURRENT FOCUS
+
+* Advanced Kubernetes Security
+* DevSecOps Automation
+* Platform Engineering
+* Cloud Cost Engineering
+
+---
+
+# 🤝 LET’S CONNECT
 
 <p>
 <a href="https://www.linkedin.com/in/g-md-681b9824b/">
@@ -118,8 +161,8 @@ Python • Bash • Go • YAML
 
 ---
 
-# ⚡ Final Positioning Statement
+# 🔥 Elite Positioning Statement
 
-> “I build scalable cloud platforms, automate everything possible, and engineer systems that stay reliable under pressure.”
+> “I engineer scalable cloud platforms, secure automated pipelines, and design infrastructure that performs reliably under real-world production pressure.”
 
 ---
